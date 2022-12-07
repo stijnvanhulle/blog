@@ -1,6 +1,6 @@
 ---
 name: Stijn Van Hulle
-avatar: /static/images/avatar.png
+avatar: /static/images/stijnvanhulle.jpg
 occupation: Front-end developer
 company: Mediagenix
 email: stijn@stijnvanhulle.be

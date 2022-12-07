@@ -7,8 +7,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.stijnvanhulle.be',
   siteRepo: 'https://github.com/stijnvanhulle.be/blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  siteLogo: '/images/logo.png',
+  image: '/static/images/stijnvanhulle.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'stijn@stijnvanhulle.be',
   github: 'https://github.com/stijnvanhulle',

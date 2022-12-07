@@ -1,0 +1,14 @@
+{
+  "version": "1.18.7",
+  "name": "Stijn Van Hulle",
+  "description": "I'm a full-stack web developer.",
+  "icons": {
+    "60": "firefox_app_60x60.png",
+    "128": "firefox_app_128x128.png",
+    "512": "firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Stijn Van Hulle",
+    "url": null
+  }
+}
