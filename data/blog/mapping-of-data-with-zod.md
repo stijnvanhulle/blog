@@ -9,9 +9,9 @@ authors: ['default']
 
 # The problem
 
-Mapping data in Javascript/Typescript is not always easy. You need to create different kind of checks(if/switch statements) to validate if your data has shape x or y. You also need to find the difference between 2 shapes and use that difference to create your validation.
+Mapping data in Javascript/Typescript is not always easy. You need to create different kinds of checks(if/switch statements) to validate if your data has the shape x or y. You also need to find the difference between 2 shapes and use that difference to create your validation.
 
-Another thing that will be hard is using the corrects types(in Typescript), there are some tricks to do that but those will add extra complexity to your project.
+Another thing that will be hard is using the correct types(in Typescript), there are some tricks to do that but those will add extra complexity to your project.
 
 In the end, you are creating a lot of extra code/complexity to make your mapper work. So what if you can use a library like [Zod](https://zod.dev/) to help with the mapping part?
 
