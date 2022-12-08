@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.stijnvanhulle.be',
-  siteRepo: 'https://github.com/stijnvanhulle.be/blog',
+  siteRepo: 'https://github.com/stijnvanhulle/blog',
   siteLogo: '/images/logo.png',
   image: '/static/images/stijnvanhulle.jpg',
   socialBanner: '/static/images/twitter-card.png',
