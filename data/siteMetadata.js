@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Stijn Van Hulle Blog',
+  title: "Stijn Van Hulle's Blog",
   author: 'Stijn Van Hulle',
   headerTitle: 'Stijn Van Hulle',
   // description: 'A blog of Stijn Van Hulle',
